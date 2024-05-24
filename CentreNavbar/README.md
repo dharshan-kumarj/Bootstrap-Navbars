@@ -12,8 +12,8 @@ This file contains the implementation of a responsive Navbar. Below are the key 
 
 ## Examples
 
-### Mobile View
+### Desktop View
 ![Mobile View](centredektop.jpg)
 
-### Desktop View
+### Mobile View
 ![Desktop View](centrephone.jpg)
